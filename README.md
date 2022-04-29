@@ -22,8 +22,7 @@ Le petit décida de partir à l'exploration de cet étrange endroit. Ne sachant 
 
 Le petit garçon était très dubitatif, mais il savait que se poser trop de question pour le moment ne le menerais à rien. IL décida donc de poursuivre sa route. Mais ne sachant pas par où aller il suivi la direction de l'étoile la plus brillante. 
 "Elle est magnifique!" se dit-il à voix haute.
-=======
+
 Ce qu'il vit l'étonna énormément, il n'avait jamais vu un crystal aussi pur, le crystal était d'un étrange couleur, un mélange de violet, cyan et rose. Il se demanda à quoi servait ce crystal, car sa taille était si grande qu'il ne savait pas le porter.
 
 Il chercha pendant des jours un moyen de faire bouger ce cristal, mais le bel objet ne bougeait pas, il le poussa, il le tira, mais seul le tache lui paraissait impossible ...
->>>>>>> Arthur

@@ -12,6 +12,7 @@ Comment pourrait-il survivre seul au milieu de la nature? Le vagabond lui consei
 
 Le petit garçon décida donc d'explorer la planète dont il était le gardien mais il ne savait pas vraiment ce que cela signifiait. En se promenant, il se rendit compte qu'il n'y avait peut être pas d'autres humains mais que la nature y était luxuriante. Tout était magnifique, des animaux aux plantes et que la planète cachait un trésor, une chose qu'il n'avait jamais vu auparavant.
 
+<<<<<<< HEAD
 Néanmoins son esprit n'était pas totalement serain , pourquoi était-il le seul  humain sur sa planète ? il aurait été plus facile de garder tout cette nature intact avec plus de bras . Et ce vagabond ? qui est-il ? d'où vient-il ? Est-il humain lui aussi ? Peut-être qu'après tout ce fameux vagabond y est pour quelque chose .
 
 Le petit décida de partir à l'exploration de cet étrange endroit. Ne sachant par où commencer il décida de suivre la direction de l'étoile la plus brillante.
@@ -21,3 +22,8 @@ Le petit décida de partir à l'exploration de cet étrange endroit. Ne sachant 
 
 Le petit garçon était très dubitatif, mais il savait que se poser trop de question pour le moment ne le menerais à rien. IL décida donc de poursuivre sa route. Mais ne sachant pas par où aller il suivi la direction de l'étoile la plus brillante. 
 "Elle est magnifique!" se dit-il à voix haute.
+=======
+Ce qu'il vit l'étonna énormément, il n'avait jamais vu un crystal aussi pur, le crystal était d'un étrange couleur, un mélange de violet, cyan et rose. Il se demanda à quoi servait ce crystal, car sa taille était si grande qu'il ne savait pas le porter.
+
+Il chercha pendant des jours un moyen de faire bouger ce cristal, mais le bel objet ne bougeait pas, il le poussa, il le tira, mais seul le tache lui paraissait impossible ...
+>>>>>>> Arthur

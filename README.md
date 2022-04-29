@@ -12,3 +12,8 @@ Comment pourrait-il survivre seul au milieu de la nature? Le vagabond lui consei
 
 Le petit décida de partir à l'exploration de cet étrange endroit. Ne sachant par où commencer il décida de suivre la direction de l'étoile la plus brillante.
 "Elle ressemble au dernier biscuit que j'ai mangé" se dit-il à haute voix.
+
+
+
+Le petit garçon était très dubitatif, mais il savait que se poser trop de question pour le moment ne le menerais à rien. IL décida donc de poursuivre sa route. Mais ne sachant pas par où aller il suivi la direction de l'étoile la plus brillante. 
+"Elle est magnifique!" se dit-il à voix haute.

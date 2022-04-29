@@ -9,3 +9,6 @@ Un jour, il rencontra un vagabond sur une planète nommée Headium. <br/>
 Ce vagabond, doté d'une longue barbe blanche et d'une canne dorée, lui expliqua qu'il n'y avait pas d'autres humains sur cette planète. Seul la nature grandissait sur Headium.
 
 Comment pourrait-il survivre seul au milieu de la nature? Le vagabond lui conseilla de ne pas s'inquiéter que tout finirait par s'arranger. Peut-être était-il destiné à conserver la nature de cette planète, tel un gardien? Le vagabond s'en alla sans dire un mot, qui était-il vraiment?
+
+Le petit décida de partir à l'exploration de cet étrange endroit. Ne sachant par où commencer il décida de suivre la direction de l'étoile la plus brillante.
+"Elle ressemble au dernier biscuit que j'ai mangé" se dit-il à haute voix.

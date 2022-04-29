@@ -27,4 +27,8 @@ Ce qu'il vit l'étonna énormément, il n'avait jamais vu un crystal aussi pur, 
 
 Il chercha pendant des jours un moyen de faire bouger ce cristal, mais le bel objet ne bougeait pas, il le poussa, il le tira, mais seul le tache lui paraissait impossible ...
 
+<<<<<<< HEAD
 Garçon courageaux et persévérant, il marcha, regardant autour de lui afin de trouver une personne pouvant l'aider. Il vit alors une marmotte sur la coline et décida courir de la rejoindre.
+=======
+C'est à ce moment là que le crystal finit par dire: *"Non mais oh c'est fini tout ce rafut? Je peux dormir oui?!"* Très surpris et pas mal effrayé, le petit garçon prit ses jambes à son cou et fuit sans regarder en arrière!
+>>>>>>> 2d56a7f82e8a29f918088f52236170d895e66bd5

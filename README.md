@@ -27,8 +27,15 @@ Ce qu'il vit l'étonna énormément, il n'avait jamais vu un crystal aussi pur, 
 
 Il chercha pendant des jours un moyen de faire bouger ce cristal, mais le bel objet ne bougeait pas, il le poussa, il le tira, mais seul le tache lui paraissait impossible ...
 
+<<<<<<< HEAD
 C'est à ce moment là que le crystal finit par dire: *"Non mais oh c'est fini tout ce rafut? Je peux dormir oui?!"* Très surpris et pas mal effrayé, le petit garçon prit ses jambes à son cou et fuit sans regarder en arrière!
 
 Après ce qui lui sembla une éternité de course effrénée, le garçon jetta une oeil par dessus son épaule pour se rendre compte qu'il n'avait absolument pas bougé.</br>
 Le critsal repris de plus belle *"C'est pas permis d'être aussi mal-poli. Et tu essayes de fuir après m'avoir réveillé en plus !!! Franchement la jeunesse est devenue décadente."*
 Prit d'effroi, le jeune homme se retourna doucement.
+=======
+Garçon courageaux et persévérant, il marcha, regardant autour de lui afin de trouver une personne pouvant l'aider. Il vit alors une marmotte sur la coline et décida courir de la rejoindre.
+
+C'est à ce moment là que le crystal finit par dire: *"Non mais oh c'est fini tout ce rafut? Je peux dormir oui?!"* Très surpris et pas mal effrayé, le petit garçon prit ses jambes à son cou et fuit sans regarder en arrière!
+
+>>>>>>> 901f46eeecb58c7a1e44dbae7e80b37476f3a8f1
